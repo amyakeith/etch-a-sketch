@@ -1,9 +1,9 @@
 h1 {
   font-family: 'Amatic SC', cursive;
-  font-size: 60px;
+  font-size: 50px;
   font-weight: 200;
   text-align: center;
-  margin: -4px;
+  margin-top: 20px;
 }
 
 #container {
@@ -17,8 +17,8 @@ h1 {
 }
 
 #box {
-  height: 401px;
-  width: 401px;
+  height: 480px;
+  width: 480px;
   border: 1px solid black;
 }
 
