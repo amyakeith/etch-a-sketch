@@ -9,7 +9,7 @@ function getNumItems()
 // set the measurement for the height and width of the boxes that will make up the div
 function getItemSize(n)
 {
-  var size = 480 / n;
+  var size = 356 / n;
   return size;
 }
 
